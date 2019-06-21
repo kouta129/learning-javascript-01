@@ -4,21 +4,26 @@
 
 ## Q1の回答「コメントを解除したことで、どう変化しましたか？」
 
-【ここに書く】
+こんにちはが表示された
 
 ## Q2の回答「エラーの原因は何でしょうか？（調べてみましょう）」
 
-【ここに書く】
+ウィンドウが定義されたいない
 
 ## Chromeデベロッパーツール：Consoleの実行結果
 
 ```
-【ここにコピー＆ペーストする】
+Good morning.
+index.html:18 おはよう！
+VM116 main.js:4 Good morning.
+index.html:18 おはよう！
+2Navigated to http://127.0.0.1:5500/learning-javascript-01/index.html
 ```
 
 ## ターミナルの実行結果
 
 ```
-【ここにコピー＆ペーストする】
+js
+Goodmorning, Node.js!!
 ```
 
